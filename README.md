@@ -1,14 +1,5 @@
 <h1 align="center">Windows delete theme</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/github/license/adi1090x/plymouth-themes?style=for-the-badge">
-</p>
-
-<p align="center">
-A big collection of plymouth themes, ported from <i>android bootanimation</i> from <a href="https://forum.xda-developers.com/android/themes/alienware-t3721978">here.</a>
-</p>
-
-![gif](https://raw.githubusercontent.com/adi1090x/files/master/plymouth-themes/previews/53.gif)
 
 ### What is plymouth?
 
